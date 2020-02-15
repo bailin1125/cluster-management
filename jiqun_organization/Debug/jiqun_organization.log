@@ -1,0 +1,3 @@
+﻿  login.cpp
+c:\users\王志\source\repos\jiqun_organization\jiqun_organization\login.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+  jiqun_organization.vcxproj -> C:\Users\王志\source\repos\jiqun_organization\Debug\jiqun_organization.exe
